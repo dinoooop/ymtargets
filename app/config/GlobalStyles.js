@@ -1,6 +1,6 @@
 import { StyleSheet } from 'react-native';
 
-const GlobalStyles = StyleSheet.create({
+const global = StyleSheet.create({
   container: {
     flex: 1,
     alignItems: 'center',
@@ -14,6 +14,10 @@ const GlobalStyles = StyleSheet.create({
   activeTitle: {
     color: 'red',
   },
+  modalTitle: {
+    fontSize: 19,
+    alignSelf: 'center'
+  }
 });
 
-export default GlobalStyles;
+export default global;
