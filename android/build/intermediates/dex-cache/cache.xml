@@ -30,6 +30,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/var/www/html/react-app/todo/android/app/build/intermediates/exploded-aar/todo/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="001d8a96417bf5d83cb2759a3bb0d635101dda4c">
+        <dex dex="/var/www/html/react-app/todo/android/app/build/intermediates/pre-dexed/debug/todo-react-native-vector-icons-unspecified_e33ce4bc8b73f9ad7b02598e4ff508b03c4db3f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/var/www/html/react-app/todo/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"

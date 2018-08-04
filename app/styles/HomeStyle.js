@@ -4,6 +4,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     flexDirection: 'column',
+    justifyContent: 'flex-start',
     backgroundColor: '#FFF'
   },
   listItem: {
@@ -12,6 +13,16 @@ const styles = StyleSheet.create({
     marginTop: 2,
     padding:20,
     color: "#FFF",
+  },
+  addButtonContainerStyle: {
+    backgroundColor: "#F00"
+  },
+  iconContainer: {
+    flex:1,
+
+    position: 'absolute',
+    bottom: 10,
+    right: 10,
   }
 });
 
